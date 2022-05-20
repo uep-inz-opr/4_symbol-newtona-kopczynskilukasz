@@ -1,0 +1,2 @@
+imie = input()
+print("Hello " + imie)
